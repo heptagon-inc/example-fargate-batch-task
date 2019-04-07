@@ -1,4 +1,4 @@
-FROM alpine
+FROM alpine:latest
 
 ENV INPUT default-value
 
